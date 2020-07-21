@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/cv3um0ust1m8wcw3?svg=true)](https://ci.appveyor.com/project/MKSInc/ajs-hw-8-containers-1-set)
 
+[![Coverage Status](https://coveralls.io/repos/github/badges/shields/badge.svg?branch=master)](https://coveralls.io/github/badges/shields?branch=master)
+
 # 8. Домашнее задание к лекции «Контейнеры»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
